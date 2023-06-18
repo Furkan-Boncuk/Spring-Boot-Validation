@@ -1,4 +1,4 @@
-![Ekran görüntüsü 2023-06-18 101632](https://github.com/Furkan-Boncuk/Spring-Boot-Validation/assets/114020260/a090a5de-e779-42e3-885c-630a8bfdcd9b)# Spring Boot Validation
+# Spring Boot Validation
 
 ---
 

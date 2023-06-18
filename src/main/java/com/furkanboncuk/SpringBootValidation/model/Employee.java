@@ -13,8 +13,8 @@ public class Employee {
 
     @JsonProperty
     @Positive(message="Id parameters cannot take negative values")
-    @Min(value=100, message="The id value must be between 3 and 10 digits")
-    @Max(value=999999999, message="The id value must be between 3 and 10 digits")
+    @Min(value=100, message="The id value must be between 3 and 9 digits")
+    @Max(value=999999999, message="The id value must be between 3 and 9 digits")
     private long employeeId;
     @JsonProperty
     @NotEmpty
